@@ -1,0 +1,10 @@
+<AUDIO>
+volume=1
+
+<NETWORK>
+joinip=127.0.0.1
+joinport=34334
+joinname=Client
+showip=true
+hostport=34334
+
